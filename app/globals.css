@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url(/public/MaterialIcons-Regular.ttf);
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -24,4 +26,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    font-family: 'Inter', sans-serif;
+
 }
+
