@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-email/components": "^0.0.19",
+    "@react-email/tailwind": "^0.0.18",
     "@types/node": "20.14.2",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
@@ -21,10 +23,11 @@
     "postcss": "8.4.38",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-email": "^2.1.4",
     "react-hot-toast": "^2.4.1",
     "react-icons": "^5.2.1",
     "react-intersection-observer": "^9.10.3",
-    "resend": "^3.3.0",
+    "resend": "^0.16.0",
     "tailwindcss": "3.4.4",
     "typescript": "5.4.5"
   }
