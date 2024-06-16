@@ -26,8 +26,8 @@ export default function RootLayout({
       >
         <ThemeContextProvider>
 
-        <div className="bg-[#e2fbf3] absolute top-[-6rem] -z-10 right-[11rem] h-[31.25rem] w-[31.25rem] rounded-full blur-[10rem] sm:w-[68.75rem] dark:bg-[#8dcea8]"></div>
-        <div className="bg-[#e4d7fb] absolute top-[-1rem] -z-10 left-[-35rem] h-[31.25rem] w-[50rem] rounded-full blur-[10rem] sm:w-[68.75rem] md:left-[-33rem] lg:left-[-28rem] xl:left-[-15rem] 2xl:left-[-5rem] dark:bg-[#746394]"></div>
+        <div className="bg-[#e2fbee] absolute top-[-6rem] -z-10 right-[11rem] h-[31.25rem] w-[31.25rem] rounded-full blur-[10rem] sm:w-[68.75rem] dark:bg-[#95ce8d]"></div>
+        <div className="bg-[#d7eafb] absolute top-[-1rem] -z-10 left-[-35rem] h-[31.25rem] w-[50rem] rounded-full blur-[10rem] sm:w-[68.75rem] md:left-[-33rem] lg:left-[-28rem] xl:left-[-15rem] 2xl:left-[-5rem] dark:bg-[#2a4b69]"></div>
         <ActiveSectionContextProvider>
         <Header/>
         {children}
