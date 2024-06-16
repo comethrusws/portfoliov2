@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
+import breaditImg from "@/public/breadit.png"
 
 export const links = [
   {
@@ -32,9 +33,16 @@ export const links = [
 
 export const projectsData = [
   {
+    title: "Breadit",
+    description:
+      "A reddit-like but better webapp that i built with various features like Pagination, Community creation and Post creation.",
+    tags: [ "Next.js","React", "Postgres", "Tailwind", "Prisma",],
+    imageUrl: breaditImg,
+  },
+  {
     title: "CorpComment",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "A website where the Users can give public feedback to companies.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: corpcommentImg,
   },
