@@ -10,8 +10,8 @@ import ThemeContextProvider from '@/context/theme-context'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Basab|Personal Portfolio',
-  description: 'Add Metadata',
+  title: 'Basab | Personal Portfolio',
+  description: 'Basab Jha is a Fullstack Web Developer/ Machine Learning Engineer based in Kathmandu, Nepal',
 }
 
 export default function RootLayout({
