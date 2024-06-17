@@ -36,7 +36,7 @@ export const projectsData = [
     title: "Breadit",
     description:
       "A reddit-like but better webapp that i built with various features like Pagination, Community creation and Post creation.",
-    tags: [ "Next.js","React", "Postgres", "Tailwind", "Prisma",],
+    tags: [ "Next.js","React", "Postgres", "Tailwind", "Prisma","Supabase"],
     imageUrl: breaditImg,
   },
   {
