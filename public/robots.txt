@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://basabjha.com.np
+
+# Sitemaps
+Sitemap: https://basabjha.com.np/sitemap.xml
