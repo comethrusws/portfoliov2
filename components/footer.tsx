@@ -6,11 +6,6 @@ export default function Footer() {
       <small className="mb-2 block text-xs">
         &copy; 2024 Basab Jha. All rights reserved.
       </small>
-      <p className="text-xs">
-        Built with
-        Next.js, TypeScript, Tailwind,
-        Framer Motion, React Email & Resend, Supabase.
-      </p>
     </footer>
   );
 }
