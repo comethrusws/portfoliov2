@@ -12,6 +12,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Basab | Personal Portfolio',
   description: 'Basab Jha is a Fullstack Web Developer/ Machine Learning Engineer based in Kathmandu, Nepal, personal portfolio showcasing projects, skills, and contact information.',
+  keywords:["Basab Jha", "basab", "Portfolio", "basab jha", "basab jha github", "comethrusws"],
 }
 
 export default function RootLayout({
