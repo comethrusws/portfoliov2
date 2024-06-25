@@ -40,7 +40,7 @@ export const projectsData = [
     imageUrl: breaditImg,
   },
   {
-    title: "SPOTIDYDOWNLOADER",
+    title: "SPOTIFYDOWNLOADER",
     description:
       "A website that went semiviral, where the users can enter a link to a Spotify track/album and download it.",
     tags: ["React", "Next.js", "Postgres", "Tailwind", "Prisma", "Kinde"],
