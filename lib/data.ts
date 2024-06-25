@@ -42,7 +42,7 @@ export const projectsData = [
   {
     title: "SPOTIDYDOWNLOADER",
     description:
-      "A website that went semiviral, where the Users can enter a link to a Spotidy track/album and download it.",
+      "A website that went semiviral, where the users can enter a link to a Spotify track/album and download it.",
     tags: ["React", "Next.js", "Postgres", "Tailwind", "Prisma", "Kinde"],
     imageUrl: spotiImg,
   },
