@@ -2,7 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
+import spotiImg from "@/public/spotid.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 import breaditImg from "@/public/breadit.png"
@@ -40,11 +40,11 @@ export const projectsData = [
     imageUrl: breaditImg,
   },
   {
-    title: "CorpComment",
+    title: "SPOTIDYDOWNLOADER",
     description:
-      "A website where the Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "A website that went semiviral, where the Users can enter a link to a Spotidy track/album and download it.",
+    tags: ["React", "Next.js", "Postgres", "Tailwind", "Prisma", "Kinde"],
+    imageUrl: spotiImg,
   },
   {
     title: "rmtDev",
