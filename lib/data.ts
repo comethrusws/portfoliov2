@@ -43,7 +43,7 @@ export const projectsData = [
     title: "SPOTIFYDOWNLOADER",
     description:
       "A website that went semiviral, where the users can enter a link to a Spotify track/album and download it.",
-    tags: ["React", "Next.js", "Postgres", "Tailwind", "Prisma", "Kinde"],
+    tags: ["React", "Next.js", "Postgres", "Tailwind", "Prisma", "Framer"],
     imageUrl: spotiImg,
   },
   {
@@ -57,7 +57,7 @@ export const projectsData = [
     title: "Word Analytics",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
