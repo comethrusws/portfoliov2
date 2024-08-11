@@ -28,7 +28,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/pp2.jpg"
+              src="/pp1.png"
               alt="Basab portrait"
               width="192"
               height="192"
